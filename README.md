@@ -36,4 +36,4 @@ Messenger: McMelon Tube\
 **My Minecraft Pocketmine server:**\
    IP: meloncraft.mcpe.dev\
    PORT: 22061\
-   Discord [Click here!](https://discord.gg/h7RDnZ2)\
+   Discord [Click here!](https://discord.gg/h7RDnZ2)

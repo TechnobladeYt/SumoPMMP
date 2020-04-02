@@ -30,10 +30,10 @@ Discord: McMelon#0540\
 Facebook: McMelon Tube\
 Messenger: McMelon Tube\
 \
-**My Minecraft Pocketmine server:**\
-IP: meloncraft.mcpe.dev\
-PORT: 22061\
-Discord: [Click here!](https://discord.gg/h7RDnZ2)\
-   \
 **Download:**\
-[<img src="https://poggit.pmmp.io/ci.shield/McMelonTV/SumoPMMP/~" width="100" height="25" />](https://poggit.pmmp.io/ci/McMelonTV/SumoPMMP/~)
+[<img src="https://poggit.pmmp.io/ci.shield/McMelonTV/SumoPMMP/~" width="100" height="25" />](https://poggit.pmmp.io/ci/McMelonTV/SumoPMMP/~)\
+\
+**My Minecraft Pocketmine server:**\
+   IP: meloncraft.mcpe.dev
+   PORT: 22061
+   Discord [Click here!](https://discord.gg/h7RDnZ2)

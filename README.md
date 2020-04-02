@@ -34,7 +34,8 @@ Messenger: McMelon Tube\
 [<img src="https://poggit.pmmp.io/ci.shield/McMelonTV/SumoPMMP/~" width="100" height="25" />](https://poggit.pmmp.io/ci/McMelonTV/SumoPMMP/~)\
 \
    **Issues:**\
-   [Move to issues](https://github.com/McMelonTV/SumoPMMP/issues)
+   [Move to issues](https://github.com/McMelonTV/SumoPMMP/issues)\
+   \
 **My Minecraft Pocketmine server:**\
    IP: meloncraft.mcpe.dev\
    PORT: 22061\

@@ -35,6 +35,7 @@ Messenger: McMelon Tube\
 \
    **Issues:**\
    [Move to issues](https://github.com/McMelonTV/SumoPMMP/issues)\
+   [Submit new issue](https://github.com/McMelonTV/SumoPMMP/issues/new)\
    \
 **My Minecraft Pocketmine server:**\
    IP: meloncraft.mcpe.dev\

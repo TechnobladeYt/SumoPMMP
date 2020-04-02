@@ -123,7 +123,7 @@ class SumoCommand extends Command implements PluginIdentifiableCommand {
                 }
                 $sender->sendMessage("§aYou joined the setup mode.\n".
                     "§7- Use §lhelp §r§7to display available commands\n"  .
-                    "§7- or §ldone §r§7to leave setup mode" .);
+                    "§7- or §ldone §r§7to leave setup mode");
                 $this->plugin->setters[$sender->getName()] = $this->plugin->arenas[$args[1]];
                 break;
             case "arenas":

@@ -1,5 +1,6 @@
 name: SumoTranslatedMcMelonTV
-api: 3.0.0
+api: [2.0.0, 3.0.0]
+description: Let 0.15.10 server use this plugin
 version: 1.0.0
 main: jack\sumo\Sumo
 
